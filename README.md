@@ -1,2 +1,2 @@
-# AI-cource-
+# AI-course-
 task 2 
